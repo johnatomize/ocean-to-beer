@@ -1,0 +1,74 @@
+{
+  "passed": true,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 300,
+  "duration_seconds": 10,
+  "camera": "fixed orthographic nadir",
+  "external_images": false,
+  "timeline": [
+    {
+      "frame": 1,
+      "time_seconds": 0.0,
+      "transformation_front": -0.2,
+      "ocean_simulation_time": 1.6
+    },
+    {
+      "frame": 90,
+      "time_seconds": 2.966666666666667,
+      "transformation_front": -0.2,
+      "ocean_simulation_time": 3.53478
+    },
+    {
+      "frame": 91,
+      "time_seconds": 3.0,
+      "transformation_front": -0.2,
+      "ocean_simulation_time": 3.55652
+    },
+    {
+      "frame": 120,
+      "time_seconds": 3.966666666666667,
+      "transformation_front": 0.13833,
+      "ocean_simulation_time": 4.18696
+    },
+    {
+      "frame": 151,
+      "time_seconds": 5.0,
+      "transformation_front": 0.5,
+      "ocean_simulation_time": 4.86087
+    },
+    {
+      "frame": 180,
+      "time_seconds": 5.966666666666667,
+      "transformation_front": 0.83833,
+      "ocean_simulation_time": 5.4913
+    },
+    {
+      "frame": 210,
+      "time_seconds": 6.966666666666667,
+      "transformation_front": 1.18833,
+      "ocean_simulation_time": 6.14348
+    },
+    {
+      "frame": 211,
+      "time_seconds": 7.0,
+      "transformation_front": 1.2,
+      "ocean_simulation_time": 6.16522
+    },
+    {
+      "frame": 270,
+      "time_seconds": 8.966666666666667,
+      "transformation_front": 1.2,
+      "ocean_simulation_time": 7.44783
+    },
+    {
+      "frame": 300,
+      "time_seconds": 9.966666666666667,
+      "transformation_front": 1.2,
+      "ocean_simulation_time": 8.1
+    }
+  ]
+}

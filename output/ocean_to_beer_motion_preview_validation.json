@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "file": "ocean_to_beer_motion_preview.mp4",
+  "decoded_frames": 300,
+  "fps": 30,
+  "duration_seconds": 10,
+  "dimensions": [
+    480,
+    270
+  ],
+  "unique_downsampled_frames": 300,
+  "minimum_frame_difference": 2.8374,
+  "phase_samples": {
+    "1": {
+      "sea_fraction": 0.9915,
+      "gold_fraction": 0.0
+    },
+    "90": {
+      "sea_fraction": 0.9977,
+      "gold_fraction": 0.0
+    },
+    "120": {
+      "sea_fraction": 0.9105,
+      "gold_fraction": 0.0563
+    },
+    "151": {
+      "sea_fraction": 0.4398,
+      "gold_fraction": 0.4861
+    },
+    "180": {
+      "sea_fraction": 0.0316,
+      "gold_fraction": 0.8974
+    },
+    "211": {
+      "sea_fraction": 0.0,
+      "gold_fraction": 0.966
+    },
+    "270": {
+      "sea_fraction": 0.0,
+      "gold_fraction": 0.9043
+    },
+    "300": {
+      "sea_fraction": 0.0,
+      "gold_fraction": 0.8557
+    }
+  }
+}

@@ -1,0 +1,9 @@
+renders/
+output/*
+!output/ocean_to_beer_motion_preview.mp4
+!output/ocean_to_beer_motion_preview_validation.json
+!output/scene_validation.json
+*.blend1
+*.blend2
+__pycache__/
+.DS_Store
